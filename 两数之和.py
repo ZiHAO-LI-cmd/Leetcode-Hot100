@@ -6,3 +6,6 @@ class Solution:
                 return [hashtable[target - num], i]
             hashtable[num] = i
         return []
+
+
+# https://leetcode-cn.com/problems/two-sum/
